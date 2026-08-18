@@ -1,0 +1,22 @@
+services:
+  metabase:
+    image: metabase/metabase:latest
+    container_name: financial-metabase
+
+    ports:
+      - "3000:3000"
+
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+    environment:
+      MB_DB_TYPE: h2
+      MB_DB_FILE: /metabase-data/metabase.db
+
+    volumes:
+      - metabase_data:/metabase-data
+
+    restart: unless-stopped
+
+volumes:
+  metabase_data:

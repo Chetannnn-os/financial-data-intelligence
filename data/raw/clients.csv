@@ -1,0 +1,501 @@
+client_id,client_name,country,segment,onboarding_date
+C0001,April Carter,Canada,Retail,2022-03-24
+C0002,Albert Hays,USA,Institutional,2022-10-22
+C0003,Joshua Green,UK,High Net Worth,2021-04-05
+C0004,Debbie Chan,UK,Retail,2019-04-14
+C0005,Jose Powell,Canada,Retail,2020-12-20
+C0006,Brittany Gill,Germany,Corporate,2020-03-01
+C0007,Monica Jackson,USA,Retail,2019-04-20
+C0008,Cole Gomez,USA,High Net Worth,2019-05-24
+C0009,Jaime Roth,UK,Retail,2020-07-21
+C0010,Kristin Heath,Germany,High Net Worth,2021-11-20
+C0011,Samantha Thompson,Canada,Corporate,2026-02-23
+C0012,Robin Klein,UK,Corporate,2025-04-30
+C0013,Jennifer Simpson,Germany,Institutional,2022-01-01
+C0014,Timothy Martinez,Australia,Retail,2022-01-23
+C0015,Isaac Palmer,Australia,High Net Worth,2025-02-17
+C0016,Stephen Barry,Canada,Corporate,2020-01-05
+C0017,Bridget Ramirez,India,Institutional,2019-12-24
+C0018,Kristin Brown,UK,High Net Worth,2021-11-02
+C0019,Karen Rowland,Australia,Institutional,2023-12-23
+C0020,Brian Norman,USA,Retail,2022-05-19
+C0021,Suzanne Jensen,Singapore,Retail,2026-06-10
+C0022,Rachel Ruiz,India,Institutional,2023-06-14
+C0023,Mr. John Cohen,Germany,Institutional,2023-05-23
+C0024,Amy Miller,Australia,Retail,2026-05-11
+C0025,Brian Baker,Canada,Corporate,2022-11-06
+C0026,Stacy Walton,Germany,Retail,2021-09-08
+C0027,Nicholas Boyd,Singapore,Retail,2025-02-09
+C0028,Sara Rivera,Germany,Institutional,2018-10-17
+C0029,Aaron Lopez,Australia,Institutional,2022-08-19
+C0030,Susan Carter,Germany,High Net Worth,2020-02-09
+C0031,William Solomon,Canada,Retail,2023-08-11
+C0032,Brittney Aguilar,USA,High Net Worth,2024-08-29
+C0033,Kimberly Kim,Australia,Institutional,2021-12-08
+C0034,Christina Pope,USA,High Net Worth,2019-01-31
+C0035,Thomas Garza,Australia,Retail,2023-04-09
+C0036,Juan Jones,Singapore,Institutional,2019-12-14
+C0037,Gregory Edwards,Singapore,Institutional,2024-04-02
+C0038,Elizabeth Sanchez,UK,Institutional,2022-02-17
+C0039,Richard Hayes,India,High Net Worth,2023-02-11
+C0040,Taylor Morrison,Canada,Institutional,2021-05-31
+C0041,Brittany Wood,Canada,Retail,2023-03-08
+C0042,Jessica Gray,Germany,High Net Worth,2025-08-25
+C0043,Dustin Adams,Germany,High Net Worth,2026-05-25
+C0044,Mr. Timothy Rodriguez,UK,Corporate,2024-09-22
+C0045,Elizabeth Patterson,Singapore,Institutional,2022-03-22
+C0046,Jacob Jones,Canada,High Net Worth,2026-07-16
+C0047,Dana Brock,Canada,Institutional,2020-01-23
+C0048,Chris Evans,Australia,Retail,2024-01-22
+C0049,Clinton Miller,UK,Retail,2024-09-04
+C0050,Stephanie Hutchinson,Australia,Institutional,2020-08-06
+C0051,Jonathan Powell,Singapore,Institutional,2025-07-25
+C0052,Christy Green,USA,High Net Worth,2021-10-12
+C0053,Barbara Bowen,Germany,Institutional,2025-05-06
+C0054,Daniel Flores,UK,Corporate,2023-10-22
+C0055,Todd Boyd,Singapore,Corporate,2020-03-24
+C0056,Tristan Vaughn,UK,Institutional,2021-07-22
+C0057,Jason Rodriguez,UK,High Net Worth,2021-10-21
+C0058,Miguel Hill,Canada,Institutional,2023-01-08
+C0059,Ashlee Anthony,Canada,Corporate,2024-07-06
+C0060,Jason Pacheco,Germany,Corporate,2025-04-19
+C0061,Karen Miller,India,High Net Worth,2022-12-05
+C0062,Monica Moss,UK,Corporate,2020-02-23
+C0063,Sherry Holland,USA,Retail,2026-04-06
+C0064,Steven Thompson,Australia,Retail,2023-10-23
+C0065,Michael Merritt,UK,High Net Worth,2022-12-26
+C0066,Joseph Edwards,Australia,Corporate,2024-08-10
+C0067,Michael Levine,Germany,Retail,2019-12-29
+C0068,Duane Peterson,Singapore,Corporate,2021-01-07
+C0069,Jessica Bailey,Germany,Corporate,2020-10-06
+C0070,Mrs. Elizabeth Wilson,Germany,Institutional,2026-02-22
+C0071,Eric Robinson,Germany,Retail,2024-08-12
+C0072,David Ball,Canada,Retail,2026-08-04
+C0073,Teresa Reed,Canada,Institutional,2018-12-14
+C0074,Janet Bond,Australia,Institutional,2025-01-28
+C0075,Kristin Williams,USA,Institutional,2019-05-04
+C0076,Shannon Fuentes,Singapore,High Net Worth,2022-10-28
+C0077,Jonathan Morgan,Singapore,Retail,2020-02-06
+C0078,Melissa Lee,Canada,Institutional,2022-10-04
+C0079,Elizabeth Huang,Germany,High Net Worth,2019-04-24
+C0080,James Smith,Germany,Retail,2023-11-27
+C0081,Kimberly Gutierrez,Australia,Institutional,2018-12-16
+C0082,Mr. Dustin Palmer MD,Australia,High Net Worth,2023-03-13
+C0083,Brian Christian,UK,Institutional,2021-05-14
+C0084,Brian Hoffman,Australia,High Net Worth,2025-02-01
+C0085,Patricia Wiley,Germany,Retail,2024-04-05
+C0086,Jeffrey Thomas,Germany,Institutional,2021-07-22
+C0087,Megan Spence,Singapore,Retail,2026-03-29
+C0088,John Mcclain,USA,Institutional,2024-11-25
+C0089,Ashley Lutz,Australia,Institutional,2023-12-03
+C0090,David Woods,UK,Retail,2022-05-30
+C0091,Barry Pena,UK,Retail,2019-04-06
+C0092,Renee Bradley,USA,Corporate,2025-04-09
+C0093,Paula Clark,Australia,Retail,2023-07-16
+C0094,Theresa Saunders,Australia,High Net Worth,2021-11-14
+C0095,Elizabeth Williams,UK,Corporate,2018-11-14
+C0096,Veronica Wilkerson,Germany,High Net Worth,2018-10-19
+C0097,Brian Thornton,India,Corporate,2019-02-17
+C0098,Kimberly Case,UK,High Net Worth,2021-11-08
+C0099,Shelly Tanner,Canada,Institutional,2021-08-05
+C0100,Gary Palmer,Singapore,Institutional,2025-03-26
+C0101,Michael Peterson,Singapore,Corporate,2025-08-13
+C0102,Allison Morales,USA,High Net Worth,2019-07-20
+C0103,Shawn Paul,UK,Retail,2023-02-08
+C0104,Barbara Carroll MD,India,Retail,2024-10-12
+C0105,Kayla Lawrence,Germany,High Net Worth,2025-03-10
+C0106,Lisa Gordon,Germany,High Net Worth,2025-10-17
+C0107,Donald Perry,USA,Retail,2021-04-27
+C0108,John Vasquez,Canada,Retail,2023-05-19
+C0109,Jessica Garcia,UK,Retail,2024-04-27
+C0110,Sharon Davenport,USA,Institutional,2025-08-28
+C0111,Justin Griffith,USA,High Net Worth,2023-07-27
+C0112,Jessica White,India,Corporate,2023-04-21
+C0113,Jonathan Wolf,UK,High Net Worth,2022-06-01
+C0114,Shannon Martin,Canada,Corporate,2021-01-28
+C0115,Melvin Warren,UK,Corporate,2023-06-05
+C0116,Kristen Perry,Australia,Corporate,2025-06-28
+C0117,Richard Summers,UK,Retail,2026-03-24
+C0118,Joy Anderson,USA,Corporate,2023-11-22
+C0119,Jennifer Brennan,India,Corporate,2022-05-05
+C0120,Michael Montoya,Singapore,Corporate,2020-07-05
+C0121,Jason Wagner,Australia,Retail,2021-11-18
+C0122,Wesley Miller,Canada,Retail,2021-03-13
+C0123,Chad Taylor,USA,Corporate,2025-12-25
+C0124,Pedro Watts,Canada,Institutional,2020-01-21
+C0125,Erin Strickland,Australia,Retail,2021-01-12
+C0126,Alan West,UK,High Net Worth,2021-09-15
+C0127,Jonathan Chen,UK,Corporate,2020-06-28
+C0128,Jeremiah Perez,UK,Corporate,2021-09-08
+C0129,Jerry Watson,UK,Institutional,2021-04-17
+C0130,Lori Pollard,Singapore,High Net Worth,2019-06-10
+C0131,Linda Lee,Australia,Retail,2021-06-09
+C0132,Amy Adams,Singapore,Retail,2020-09-24
+C0133,Michael Jones,USA,Retail,2021-04-27
+C0134,James Cunningham,USA,High Net Worth,2020-10-27
+C0135,Brandi Brewer,UK,Corporate,2019-11-27
+C0136,Dwayne Sherman,Singapore,Corporate,2021-06-08
+C0137,Austin Mercado,UK,Corporate,2026-03-03
+C0138,Michael Stanley,USA,High Net Worth,2018-10-11
+C0139,David Sosa,Singapore,Retail,2019-07-19
+C0140,Nicholas Wallace,Singapore,Institutional,2022-08-07
+C0141,Ashley Crawford,Australia,Corporate,2022-10-05
+C0142,Kelly Romero,India,Corporate,2019-09-07
+C0143,Jerry Nichols,Canada,Corporate,2023-04-09
+C0144,Eric Michael,UK,High Net Worth,2020-10-31
+C0145,Aaron Carlson,India,High Net Worth,2020-10-08
+C0146,Juan Henry,USA,Retail,2021-09-29
+C0147,Elizabeth Norman,Canada,Institutional,2021-08-23
+C0148,Dominique Guerra,USA,Retail,2024-08-23
+C0149,Daniel Peterson,Germany,Corporate,2024-08-27
+C0150,Ricardo Tyler,Germany,High Net Worth,2025-01-20
+C0151,Jack Gillespie,USA,Retail,2021-08-31
+C0152,Michael Webb,Australia,High Net Worth,2026-03-01
+C0153,Colleen Hayes,USA,Retail,2022-07-31
+C0154,Jonathan Clark,Canada,High Net Worth,2025-06-25
+C0155,Cheryl Williams,Singapore,Retail,2023-10-20
+C0156,Mr. Shawn Johnson PhD,Germany,High Net Worth,2020-10-01
+C0157,Crystal King,Germany,Retail,2019-08-18
+C0158,Kayla Howell,Germany,Retail,2021-05-10
+C0159,Stephanie Perez,Singapore,Institutional,2025-11-07
+C0160,Jeremiah Whitehead,India,High Net Worth,2023-08-11
+C0161,Sarah Adams,Canada,Institutional,2018-11-15
+C0162,Robert Gates,UK,Institutional,2020-06-06
+C0163,Jeremy Larson,Singapore,High Net Worth,2024-08-05
+C0164,Douglas Montgomery,Canada,Institutional,2022-05-30
+C0165,Monica Pearson,Singapore,Institutional,2020-10-12
+C0166,Gina King,Australia,Retail,2026-04-05
+C0167,Melissa Underwood,USA,Corporate,2018-10-11
+C0168,Craig Martin,Germany,Retail,2022-11-16
+C0169,Don Rush,USA,High Net Worth,2022-10-24
+C0170,Jennifer Gentry,Germany,Institutional,2024-12-22
+C0171,Steven Gilbert,UK,Institutional,2025-08-19
+C0172,Penny Taylor,USA,High Net Worth,2022-03-08
+C0173,Donna Browning,India,Institutional,2024-07-09
+C0174,Jennifer Walters,UK,Corporate,2023-03-09
+C0175,Jeffrey Stanton,Australia,Institutional,2021-08-10
+C0176,Kenneth Shaffer,Germany,Retail,2021-05-06
+C0177,Lisa Bauer,Canada,Institutional,2020-12-12
+C0178,Angela Adams,Canada,Retail,2022-07-31
+C0179,Robert Marshall,UK,Institutional,2023-02-27
+C0180,Cindy Caldwell,USA,Retail,2022-06-26
+C0181,Jennifer Gordon,Canada,High Net Worth,2023-07-25
+C0182,Joshua Pratt,India,Institutional,2026-06-12
+C0183,Helen Rose,Germany,High Net Worth,2019-01-30
+C0184,Jason Griffin,Canada,Institutional,2019-05-05
+C0185,Frank Barber,UK,Institutional,2026-01-08
+C0186,Thomas Jones MD,Germany,Corporate,2022-10-27
+C0187,Ricky Flores,India,Retail,2023-05-04
+C0188,Denise Wood,USA,Corporate,2019-12-12
+C0189,Barbara Pope,Australia,Institutional,2022-12-08
+C0190,Charles Garner,USA,Retail,2025-06-30
+C0191,Brittany Roth,India,High Net Worth,2019-03-28
+C0192,Yvette Mills,Canada,Institutional,2025-11-25
+C0193,Tina Jackson,UK,Corporate,2020-06-17
+C0194,Amber Larson,Germany,Corporate,2023-09-19
+C0195,David Arnold,Germany,Retail,2023-10-08
+C0196,David Castillo,USA,Retail,2019-01-16
+C0197,Willie Matthews,Canada,High Net Worth,2020-11-09
+C0198,Dr. Elizabeth Morris,Germany,Retail,2023-08-06
+C0199,Brittney Thomas,Australia,Institutional,2025-11-25
+C0200,Amanda Figueroa,Germany,High Net Worth,2022-11-23
+C0201,Trevor Ali,Singapore,High Net Worth,2024-07-25
+C0202,Robert Snow,USA,Institutional,2025-09-16
+C0203,Eric Wong,India,Retail,2022-08-04
+C0204,Michael Ali,India,High Net Worth,2024-04-06
+C0205,Tiffany Peterson,Canada,High Net Worth,2023-05-03
+C0206,Michael Rodriguez,Canada,Retail,2024-07-06
+C0207,Laura Salinas,India,Corporate,2023-12-06
+C0208,Michael Richardson,Germany,High Net Worth,2023-10-07
+C0209,Jill Hayes,UK,High Net Worth,2026-05-08
+C0210,Ryan Gill,Australia,High Net Worth,2018-11-02
+C0211,Sergio Gentry,Singapore,Retail,2025-02-11
+C0212,Sean Castro,UK,Institutional,2019-07-15
+C0213,Julia Lee MD,Australia,Corporate,2022-12-23
+C0214,Harry Douglas,Australia,High Net Worth,2024-01-07
+C0215,Brandon Gregory,India,High Net Worth,2022-01-15
+C0216,Hannah Douglas,Australia,Retail,2024-03-08
+C0217,Bianca Day,Singapore,Retail,2024-06-29
+C0218,Carrie Boone,Australia,Corporate,2026-03-29
+C0219,Thomas Green,UK,High Net Worth,2023-06-05
+C0220,Nicholas Chavez,Australia,Corporate,2019-04-19
+C0221,Roger Miller,India,Institutional,2025-05-29
+C0222,Matthew Rodriguez,Australia,High Net Worth,2022-01-04
+C0223,Jenna Williams,UK,Retail,2021-04-28
+C0224,Matthew Douglas,Canada,High Net Worth,2025-10-09
+C0225,Kathryn Chang,Singapore,Institutional,2025-09-19
+C0226,Michael Patterson,India,Retail,2019-10-29
+C0227,Kenneth Boyer,Australia,Institutional,2025-08-13
+C0228,Stephen Rodgers,India,Corporate,2025-12-14
+C0229,Heather Reynolds,Canada,Institutional,2026-08-09
+C0230,Jordan Nelson,USA,Retail,2026-07-29
+C0231,Amy Watson,India,High Net Worth,2024-12-05
+C0232,Samantha Lee,Germany,Institutional,2020-07-27
+C0233,Robin Zavala,USA,Retail,2020-05-05
+C0234,Nathan Allen,Germany,Corporate,2022-08-13
+C0235,Carol Allen,India,Institutional,2019-07-25
+C0236,Paige Mitchell,Singapore,Retail,2023-10-12
+C0237,Ryan Smith,Singapore,High Net Worth,2026-04-06
+C0238,Paul Campbell,India,Retail,2024-07-08
+C0239,Robert Morgan,Canada,Corporate,2026-03-17
+C0240,Nicholas Ward,USA,High Net Worth,2025-07-08
+C0241,Luis Johnson,India,Corporate,2024-04-11
+C0242,Ralph Olson,USA,Institutional,2021-03-29
+C0243,Elizabeth Owens,Germany,Institutional,2026-05-05
+C0244,Pamela Rice,Canada,Retail,2023-05-24
+C0245,Roger Johnson,Canada,Institutional,2025-08-04
+C0246,Chloe Watson,Germany,Institutional,2019-07-19
+C0247,Steven Perez,Canada,Corporate,2021-02-26
+C0248,Eric Collins,India,Corporate,2024-03-13
+C0249,Kyle Wolfe,Canada,Institutional,2020-03-20
+C0250,Gregory Harris,Germany,High Net Worth,2019-05-04
+C0251,Kristen Chase,UK,Corporate,2023-08-30
+C0252,Ryan Hammond,Canada,Corporate,2024-11-28
+C0253,Ashley Reed,Canada,High Net Worth,2025-07-30
+C0254,David Woods,Germany,Institutional,2024-04-11
+C0255,Bradley Shaffer,Singapore,Retail,2026-06-11
+C0256,Veronica Hopkins,India,Institutional,2019-12-02
+C0257,Walter Brown,UK,Corporate,2021-04-27
+C0258,Julie Lambert,Australia,Institutional,2020-03-02
+C0259,Kristopher Burton,Singapore,Corporate,2019-09-29
+C0260,Kelly Robinson,Singapore,High Net Worth,2020-09-23
+C0261,Taylor Hoffman,Germany,Corporate,2020-04-27
+C0262,Richard Stanley,Australia,High Net Worth,2021-08-16
+C0263,Stephanie Pacheco,Canada,Retail,2019-05-25
+C0264,Michael Brooks,India,Institutional,2021-10-26
+C0265,Michelle Hamilton,USA,High Net Worth,2020-01-07
+C0266,Jacob Turner,Canada,Institutional,2022-03-08
+C0267,Richard Pittman,UK,High Net Worth,2025-03-24
+C0268,Jake Carson,UK,Retail,2022-04-30
+C0269,Gary Patel,USA,High Net Worth,2020-05-01
+C0270,Erika Arellano,Singapore,Retail,2018-12-11
+C0271,Lauren Smith,Singapore,Corporate,2018-08-28
+C0272,Sherri King,Canada,High Net Worth,2024-12-02
+C0273,Margaret Torres,Canada,Corporate,2025-05-07
+C0274,Jill Mcclain,Singapore,Corporate,2025-02-08
+C0275,Wayne Baldwin,UK,High Net Worth,2022-08-30
+C0276,Shannon Hughes,Canada,Retail,2025-11-28
+C0277,Brian Jordan,Australia,Retail,2024-10-31
+C0278,Jacob Donovan,Australia,Corporate,2021-11-05
+C0279,Allen Jackson,UK,High Net Worth,2025-05-12
+C0280,James Turner,Australia,Corporate,2024-03-11
+C0281,Tammy Jarvis,USA,High Net Worth,2023-06-21
+C0282,Michelle Schultz,Australia,Retail,2020-01-19
+C0283,Kelly Castro,Singapore,High Net Worth,2025-11-09
+C0284,Jamie Gutierrez,Australia,Corporate,2023-02-20
+C0285,Jennifer Baker,Canada,Institutional,2026-04-02
+C0286,Mr. Martin Hester,Australia,Corporate,2023-05-07
+C0287,David Sandoval,Germany,Corporate,2023-11-02
+C0288,Heather Gutierrez,Australia,Corporate,2024-01-24
+C0289,Heather Wilson,UK,Corporate,2020-11-07
+C0290,Rebecca Cummings,Singapore,Institutional,2023-01-21
+C0291,Shannon Mckinney,Australia,High Net Worth,2020-12-09
+C0292,James Smith DDS,Australia,Institutional,2021-03-13
+C0293,Douglas Ramos,Australia,Corporate,2026-05-17
+C0294,Emily Kelly,Canada,High Net Worth,2023-09-23
+C0295,Jacqueline Ho MD,India,Corporate,2019-09-03
+C0296,Rebecca Wade,USA,Institutional,2024-10-05
+C0297,Brandon Kelly,UK,Institutional,2023-11-13
+C0298,Amanda Mccormick,India,Institutional,2025-01-30
+C0299,Kurt Williams,Germany,Retail,2021-11-08
+C0300,Caroline Smith,UK,High Net Worth,2021-02-04
+C0301,William Duran,UK,Corporate,2019-09-10
+C0302,Erika Bell,Canada,High Net Worth,2023-07-14
+C0303,Adam Thomas,Canada,High Net Worth,2025-12-04
+C0304,Frank Alexander,USA,Corporate,2023-05-15
+C0305,Pedro Jones,Singapore,Institutional,2024-12-23
+C0306,Scott Campbell,Germany,Corporate,2025-06-07
+C0307,Janet Gentry,Singapore,Retail,2022-04-07
+C0308,Hunter Fisher,UK,Corporate,2023-03-18
+C0309,Timothy Meadows,Singapore,Retail,2023-09-09
+C0310,Mark Lopez,Australia,Corporate,2019-03-13
+C0311,Stacy Ramirez,Singapore,Retail,2025-11-02
+C0312,Jason Harrell,India,Institutional,2020-09-11
+C0313,Julie Stone,Australia,Corporate,2019-03-06
+C0314,Randy Scott,Australia,Corporate,2024-05-19
+C0315,Elizabeth Bowen,Germany,High Net Worth,2024-09-24
+C0316,Jennifer Thomas,Singapore,High Net Worth,2023-09-11
+C0317,Charles Smith,India,Corporate,2021-05-01
+C0318,Brandon Lam,Singapore,Retail,2023-09-18
+C0319,Kyle Grant,Singapore,Institutional,2021-06-20
+C0320,Colton Russell,Canada,Corporate,2025-07-20
+C0321,Natalie Parker DDS,Canada,High Net Worth,2019-10-14
+C0322,John Fritz,Australia,Corporate,2022-05-12
+C0323,Daniel Gibbs,UK,Retail,2025-04-02
+C0324,Rebecca Mata,Singapore,Retail,2025-07-21
+C0325,John Park,USA,Corporate,2024-04-25
+C0326,Gregory Richard,UK,Corporate,2025-06-25
+C0327,Larry Smith,UK,Retail,2018-12-08
+C0328,Christopher Austin,India,Corporate,2025-02-20
+C0329,Jessica Garcia,India,High Net Worth,2023-03-15
+C0330,Brandon Webb,Singapore,Institutional,2025-03-11
+C0331,Dillon Larsen,India,Corporate,2022-02-22
+C0332,Emily Allen,India,Corporate,2019-03-21
+C0333,Robin Peterson,India,Retail,2020-04-02
+C0334,Pamela Jones,Singapore,Retail,2019-05-10
+C0335,Kelly Johnson,Canada,Retail,2024-07-10
+C0336,Stephen Wilson,India,High Net Worth,2021-09-06
+C0337,Kimberly Kline,Canada,Retail,2021-04-21
+C0338,Sherri Thornton,Australia,Retail,2023-07-06
+C0339,Tonya Bowman,Australia,Retail,2019-03-09
+C0340,Michelle Flores,UK,High Net Worth,2025-08-01
+C0341,Jason Monroe PhD,Australia,Retail,2026-05-19
+C0342,Christian Kramer,Germany,High Net Worth,2020-06-21
+C0343,Regina Simmons,UK,High Net Worth,2019-11-28
+C0344,Manuel Martinez Jr.,Singapore,Retail,2025-12-29
+C0345,David Richards,Germany,High Net Worth,2022-09-14
+C0346,Richard Murphy,Singapore,Institutional,2019-07-14
+C0347,Allison Adams,Australia,Institutional,2025-06-01
+C0348,Christopher Lindsey,UK,Retail,2018-09-23
+C0349,Kimberly Bryant,Australia,High Net Worth,2021-01-26
+C0350,Amber Williams,India,Retail,2024-12-23
+C0351,Lori Frazier,Germany,Retail,2018-08-24
+C0352,Janice Duncan,India,Corporate,2024-12-30
+C0353,Rhonda Harris,Singapore,High Net Worth,2025-05-03
+C0354,Bill Murray,USA,High Net Worth,2022-03-12
+C0355,Bobby Skinner,USA,Institutional,2018-10-25
+C0356,Rachel Clark,Australia,Retail,2026-03-22
+C0357,David Baker,Australia,Retail,2018-11-27
+C0358,Barbara Edwards,India,Corporate,2023-05-19
+C0359,Joshua Riggs,Canada,Institutional,2025-06-20
+C0360,Michael Evans,USA,Institutional,2019-03-06
+C0361,Brian Smith,USA,Corporate,2018-10-09
+C0362,Lisa West,Australia,Corporate,2021-12-10
+C0363,Scott Phillips,USA,Corporate,2019-10-17
+C0364,Kerri Smith,India,Corporate,2025-06-30
+C0365,Eric Gonzalez,Canada,High Net Worth,2025-09-15
+C0366,Christopher Shields,Singapore,High Net Worth,2019-04-09
+C0367,Eric Bryant,Canada,Institutional,2020-04-08
+C0368,Christopher Schwartz,Germany,Corporate,2023-08-17
+C0369,Samantha Weiss DDS,Singapore,Corporate,2019-01-11
+C0370,Samantha Garrison,Australia,Institutional,2023-05-12
+C0371,John Hays,India,High Net Worth,2025-08-12
+C0372,William Trevino,Australia,Retail,2018-09-26
+C0373,Stephen Lopez,India,Corporate,2018-10-15
+C0374,Mark Saunders,UK,Corporate,2020-07-12
+C0375,Patrick Williams,Germany,Corporate,2020-09-07
+C0376,David Berry,India,Retail,2022-03-04
+C0377,Kimberly Schwartz,Singapore,Institutional,2019-03-25
+C0378,Jackie Russell,UK,Corporate,2024-06-25
+C0379,Ronald Grant,UK,Institutional,2025-07-31
+C0380,Annette Lyons,Australia,Institutional,2023-04-12
+C0381,Jessica Thompson,India,Institutional,2019-01-06
+C0382,Jessica Swanson,Germany,Institutional,2020-07-11
+C0383,Jeffrey Summers,Germany,Retail,2024-11-29
+C0384,Laura Rodriguez,Germany,High Net Worth,2022-03-06
+C0385,Kevin Graves,USA,High Net Worth,2022-05-03
+C0386,Kayla Thomas,Canada,Corporate,2021-02-13
+C0387,Marc Butler,Singapore,High Net Worth,2024-11-10
+C0388,Fernando Davis,Canada,Corporate,2018-08-29
+C0389,Phillip Nielsen,Canada,Corporate,2021-11-21
+C0390,Douglas Burgess MD,Singapore,Retail,2025-09-20
+C0391,Bruce Russell,USA,Institutional,2021-07-22
+C0392,James Lopez,UK,Corporate,2023-05-24
+C0393,Nathaniel Velez,Canada,High Net Worth,2025-04-17
+C0394,Christopher Garcia,India,Institutional,2025-04-29
+C0395,Ryan Ferguson,Singapore,Institutional,2020-03-02
+C0396,Katherine Turner,Singapore,Institutional,2020-02-17
+C0397,Kristin Kidd,India,Corporate,2020-02-06
+C0398,Sara Parsons,India,Institutional,2024-06-21
+C0399,Lauren Brandt,India,High Net Worth,2023-03-11
+C0400,Samantha Simpson,USA,High Net Worth,2022-09-05
+C0401,Daniel Gross,India,Retail,2020-03-05
+C0402,Emily Smith,Canada,High Net Worth,2023-04-30
+C0403,Timothy Fields,UK,High Net Worth,2024-04-12
+C0404,Mrs. Carolyn Johnson,Canada,Corporate,2021-02-13
+C0405,James Taylor,India,Institutional,2023-01-07
+C0406,Michael Davis,USA,High Net Worth,2022-10-07
+C0407,Vincent Meyer,India,High Net Worth,2018-10-28
+C0408,Heather Dominguez,India,High Net Worth,2019-08-29
+C0409,Cynthia Banks,India,Retail,2025-01-02
+C0410,Nicole Jacobs,Canada,High Net Worth,2023-02-21
+C0411,Kyle Lawson,India,Retail,2021-12-21
+C0412,Brian Reed,USA,Institutional,2024-02-01
+C0413,Mr. Michael Shea,Canada,High Net Worth,2025-11-29
+C0414,Steven Sosa,Canada,Corporate,2023-04-09
+C0415,Cynthia Schultz,USA,Retail,2021-02-07
+C0416,Michele Hall,Germany,Institutional,2022-02-11
+C0417,Amanda White,Singapore,Corporate,2022-03-08
+C0418,Gregory Myers,Singapore,Institutional,2020-05-14
+C0419,Susan Tran,UK,Retail,2022-05-18
+C0420,Nicholas Cobb,India,Corporate,2020-02-10
+C0421,Maria Davis,USA,Retail,2021-08-02
+C0422,Rebecca Franklin,Singapore,Corporate,2023-09-29
+C0423,Daniel Diaz,USA,Retail,2019-08-08
+C0424,Stephanie Adams,UK,High Net Worth,2022-11-04
+C0425,Walter Grant,Australia,Institutional,2019-03-26
+C0426,Brittany Marquez,USA,High Net Worth,2024-10-06
+C0427,Megan Webster,USA,Corporate,2023-10-29
+C0428,Carlos Mitchell,Germany,High Net Worth,2024-11-14
+C0429,Christopher Pace,Australia,Corporate,2019-07-26
+C0430,Shirley Jones,Singapore,Corporate,2023-06-09
+C0431,Anthony Barton,India,Corporate,2024-07-01
+C0432,Justin Henry,India,Retail,2018-10-13
+C0433,Jacob Ponce,Germany,Retail,2022-09-14
+C0434,Aaron Keller,Australia,High Net Worth,2020-03-09
+C0435,Abigail Vazquez,Canada,High Net Worth,2023-10-24
+C0436,William Wise,India,Retail,2024-05-02
+C0437,Debra Smith MD,UK,High Net Worth,2024-03-14
+C0438,Luis Wilson,UK,Retail,2026-01-06
+C0439,Jason Lopez,UK,Retail,2019-02-19
+C0440,Antonio Campos,Singapore,Corporate,2020-06-14
+C0441,Kenneth Sims,Canada,Corporate,2021-09-28
+C0442,Donna Lopez,India,Retail,2024-06-20
+C0443,John King,UK,Institutional,2025-01-01
+C0444,Steven Lewis,Canada,Institutional,2019-12-26
+C0445,Natasha Diaz,Canada,Corporate,2019-10-20
+C0446,Taylor Clay,USA,High Net Worth,2024-07-28
+C0447,Lisa Hernandez,India,High Net Worth,2025-10-05
+C0448,Amy Mcclain,Singapore,Retail,2022-08-16
+C0449,Jacob Gray,Germany,High Net Worth,2023-06-13
+C0450,John Campbell,Canada,High Net Worth,2023-12-03
+C0451,Rachel Delacruz,India,High Net Worth,2018-09-24
+C0452,Keith Dennis,USA,Retail,2019-08-06
+C0453,James Jenkins,UK,Institutional,2022-07-25
+C0454,Michael Torres,Germany,Institutional,2019-03-29
+C0455,Virginia Phillips,Singapore,Retail,2024-09-26
+C0456,Michael Hernandez,Singapore,Institutional,2021-12-07
+C0457,Dylan Green,Canada,Corporate,2026-03-12
+C0458,Charles Farmer,India,Corporate,2023-05-02
+C0459,Jodi Blair,Singapore,Retail,2024-11-08
+C0460,William Dalton,Germany,Retail,2023-06-13
+C0461,James Zamora,Singapore,Institutional,2023-09-23
+C0462,Steven Bartlett,Germany,Institutional,2025-03-05
+C0463,David Myers,USA,Retail,2026-07-02
+C0464,Diane Hicks,UK,Retail,2024-07-31
+C0465,Dr. Douglas Taylor,Australia,Institutional,2019-03-25
+C0466,Christina Garza,Germany,Retail,2023-01-06
+C0467,Stephanie Kelly,Australia,High Net Worth,2021-07-12
+C0468,Candace Friedman,Singapore,Corporate,2020-06-13
+C0469,Marissa Smith,India,High Net Worth,2021-11-14
+C0470,Sean Orozco,Germany,Corporate,2019-10-04
+C0471,Mr. Joseph Robertson,Canada,Corporate,2024-04-24
+C0472,Paul Lee,USA,Corporate,2025-09-22
+C0473,Emma Richards,India,Corporate,2019-11-25
+C0474,Timothy Sanders,India,Institutional,2021-09-24
+C0475,Laura Jones,Canada,Retail,2022-11-09
+C0476,Eric Yates,Australia,High Net Worth,2020-08-04
+C0477,Mr. Dennis Jacobs,India,Corporate,2023-04-06
+C0478,Andrew Davis,Canada,Corporate,2019-02-12
+C0479,Scott Castillo,India,Corporate,2024-04-07
+C0480,Lee Bailey,Australia,Retail,2020-10-11
+C0481,Christopher Palmer,Singapore,Retail,2019-06-08
+C0482,Charles Powell,India,Institutional,2021-04-07
+C0483,Marvin Beltran,India,Retail,2022-05-23
+C0484,Paul Garcia,Australia,Corporate,2023-01-06
+C0485,Cynthia Lewis,Australia,Retail,2018-08-24
+C0486,Pedro White,Canada,Corporate,2023-05-26
+C0487,Keith Gaines,Singapore,Retail,2025-08-27
+C0488,Roberto Dominguez,UK,Institutional,2020-08-09
+C0489,Joy Mccormick,Germany,Corporate,2025-01-05
+C0490,Antonio Scott,Canada,Corporate,2020-10-04
+C0491,Maria Murphy,Australia,Retail,2024-11-11
+C0492,Garrett Jefferson,UK,Institutional,2023-04-17
+C0493,Jonathan Larson,Germany,High Net Worth,2019-09-04
+C0494,Shawn Smith,India,Corporate,2024-04-09
+C0495,Roy Ramsey,Canada,Corporate,2022-04-06
+C0496,Jenny Rodriguez,USA,Retail,2025-12-07
+C0497,Deborah Patrick,Canada,High Net Worth,2024-12-18
+C0498,Michelle Reed,Canada,High Net Worth,2018-11-11
+C0499,Erik Morris,India,Retail,2021-02-28
+C0500,Joshua Lewis,Germany,Corporate,2025-06-08

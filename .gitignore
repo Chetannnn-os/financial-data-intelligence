@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment / secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# Generated / processed data
+data/processed/
+
+# Metabase local data
+metabase/*.db
+metabase/*.mv.db
+metabase/metabase.db*
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/

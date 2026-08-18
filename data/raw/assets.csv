@@ -1,0 +1,201 @@
+asset_id,ticker,asset_name,asset_class,sector,country
+A0001,AST001,Parker PLC,Equity,Healthcare,USA
+A0002,AST002,"Thompson, Gray and Peck",Commodity,Technology,Canada
+A0003,AST003,Wright-Andrade,ETF,Energy,Canada
+A0004,AST004,Sweeney-Carpenter,Bond,Consumer,Canada
+A0005,AST005,"Lopez, Farley and Patrick",Bond,Energy,Germany
+A0006,AST006,Reeves-Alvarez,Commodity,Healthcare,Germany
+A0007,AST007,Kramer-Fritz,REIT,Healthcare,Germany
+A0008,AST008,"Medina, Spencer and Jenkins",ETF,Consumer,Japan
+A0009,AST009,"Johnston, Baxter and Figueroa",ETF,Telecommunications,USA
+A0010,AST010,"Jones, Wilson and Miles",Bond,Telecommunications,Germany
+A0011,AST011,Ryan-Guzman,Bond,Telecommunications,Japan
+A0012,AST012,Cole Group,Bond,Telecommunications,USA
+A0013,AST013,Hernandez and Sons,Bond,Industrials,India
+A0014,AST014,Warner PLC,REIT,Consumer,Canada
+A0015,AST015,Fisher LLC,Commodity,Telecommunications,UK
+A0016,AST016,Douglas-Jones,Commodity,Consumer,Germany
+A0017,AST017,Alexander-Goodwin,Bond,Financials,Japan
+A0018,AST018,Morgan-Becker,REIT,Energy,Germany
+A0019,AST019,Ford LLC,Bond,Telecommunications,UK
+A0020,AST020,Campbell-Logan,ETF,Consumer,Germany
+A0021,AST021,George-Hopkins,ETF,Telecommunications,Germany
+A0022,AST022,Vega Ltd,Equity,Financials,Canada
+A0023,AST023,Jones Group,Commodity,Industrials,Germany
+A0024,AST024,"Davis, Holmes and Oneal",Commodity,Industrials,Canada
+A0025,AST025,Chapman LLC,ETF,Energy,USA
+A0026,AST026,Jackson-Avila,ETF,Consumer,Japan
+A0027,AST027,Lin LLC,Bond,Telecommunications,USA
+A0028,AST028,Carr-Underwood,Commodity,Technology,Japan
+A0029,AST029,Anderson-Brown,Commodity,Technology,Canada
+A0030,AST030,Torres-Robinson,ETF,Energy,Canada
+A0031,AST031,"Moore, Peterson and Torres",ETF,Technology,Germany
+A0032,AST032,Rivera PLC,Bond,Financials,Japan
+A0033,AST033,Allen-Medina,Commodity,Industrials,USA
+A0034,AST034,Thomas LLC,Bond,Telecommunications,Canada
+A0035,AST035,Andrews LLC,REIT,Energy,India
+A0036,AST036,Smith-Gordon,Commodity,Telecommunications,Japan
+A0037,AST037,Waller Group,Equity,Consumer,USA
+A0038,AST038,Pena LLC,ETF,Industrials,Canada
+A0039,AST039,"Welch, Ross and Woods",Bond,Healthcare,Canada
+A0040,AST040,Thompson Inc,Equity,Energy,USA
+A0041,AST041,"Carter, Ortega and Becker",Equity,Energy,UK
+A0042,AST042,Snyder-Brown,Bond,Technology,USA
+A0043,AST043,"Thomas, Wilkerson and Robinson",Bond,Telecommunications,USA
+A0044,AST044,"Johnson, Bowman and Myers",Bond,Financials,India
+A0045,AST045,"Webb, Stephenson and Chavez",Commodity,Healthcare,UK
+A0046,AST046,Payne-Zuniga,REIT,Energy,Japan
+A0047,AST047,"Thompson, Pineda and Bass",ETF,Healthcare,UK
+A0048,AST048,Silva-Castillo,Equity,Consumer,Germany
+A0049,AST049,"Garcia, Williams and Greer",REIT,Industrials,UK
+A0050,AST050,Long-Schwartz,Commodity,Consumer,UK
+A0051,AST051,"Bryan, Peters and Tapia",ETF,Energy,Canada
+A0052,AST052,Garcia-Love,Bond,Energy,India
+A0053,AST053,Cole-Pena,Equity,Telecommunications,Germany
+A0054,AST054,Ramsey-Robinson,Bond,Industrials,Japan
+A0055,AST055,Rodriguez PLC,ETF,Technology,Germany
+A0056,AST056,Miller Ltd,Bond,Consumer,India
+A0057,AST057,Vaughan-Gamble,Commodity,Industrials,India
+A0058,AST058,Mccormick and Sons,Commodity,Telecommunications,India
+A0059,AST059,Williams-Jenkins,ETF,Energy,Germany
+A0060,AST060,"Pierce, Smith and Barton",Equity,Healthcare,Germany
+A0061,AST061,"Jackson, Garcia and Hernandez",REIT,Financials,Japan
+A0062,AST062,Dean-Nelson,Bond,Industrials,India
+A0063,AST063,Young PLC,Equity,Telecommunications,Canada
+A0064,AST064,Torres LLC,Commodity,Financials,USA
+A0065,AST065,"Harris, Holmes and Goodwin",REIT,Telecommunications,Canada
+A0066,AST066,Miller-Palmer,Equity,Consumer,Canada
+A0067,AST067,"Dodson, Brewer and Smith",Commodity,Telecommunications,India
+A0068,AST068,Abbott Group,ETF,Consumer,India
+A0069,AST069,Ho-Bennett,ETF,Industrials,UK
+A0070,AST070,"Lambert, Roberts and Mcknight",REIT,Financials,Canada
+A0071,AST071,"Jordan, Freeman and Lang",ETF,Industrials,USA
+A0072,AST072,Peters-Tanner,Equity,Financials,Germany
+A0073,AST073,Davis-Barnett,Equity,Consumer,India
+A0074,AST074,"Hamilton, Black and Harrell",ETF,Technology,India
+A0075,AST075,Lawson LLC,Bond,Industrials,Germany
+A0076,AST076,Clayton-Moore,ETF,Healthcare,UK
+A0077,AST077,Mitchell-Walker,REIT,Financials,Japan
+A0078,AST078,Miller-Cook,REIT,Financials,UK
+A0079,AST079,"Scott, Brown and Jensen",Bond,Telecommunications,Germany
+A0080,AST080,"Kelly, Johnson and Ramirez",Bond,Industrials,India
+A0081,AST081,"Moore, Hodges and Lin",Equity,Energy,USA
+A0082,AST082,Lynch-Cook,ETF,Telecommunications,UK
+A0083,AST083,"Franklin, Lee and Burnett",Commodity,Telecommunications,Japan
+A0084,AST084,Miles-Murphy,Bond,Technology,Germany
+A0085,AST085,King and Sons,Equity,Financials,Japan
+A0086,AST086,"Kline, Reed and Williams",Equity,Energy,India
+A0087,AST087,"Turner, Hernandez and Lopez",Bond,Consumer,Germany
+A0088,AST088,Smith and Sons,Bond,Technology,Canada
+A0089,AST089,Matthews PLC,ETF,Energy,USA
+A0090,AST090,Clark-Gibson,REIT,Consumer,India
+A0091,AST091,Matthews-Bell,REIT,Healthcare,Canada
+A0092,AST092,Hester and Sons,Equity,Industrials,Germany
+A0093,AST093,Gill Ltd,Bond,Industrials,Germany
+A0094,AST094,Greene-Walker,Equity,Healthcare,USA
+A0095,AST095,Cole PLC,Equity,Financials,Germany
+A0096,AST096,Woods-Dorsey,Equity,Technology,UK
+A0097,AST097,"Liu, Lara and Jones",REIT,Healthcare,Germany
+A0098,AST098,Baker Inc,Commodity,Financials,Canada
+A0099,AST099,"Wood, Shea and Rice",REIT,Energy,Japan
+A0100,AST100,Velazquez-Lee,ETF,Energy,Canada
+A0101,AST101,"Walton, Moore and Norton",Equity,Telecommunications,Germany
+A0102,AST102,Underwood-Hudson,REIT,Energy,India
+A0103,AST103,Holt Ltd,Equity,Industrials,India
+A0104,AST104,Jones Ltd,ETF,Energy,Germany
+A0105,AST105,"Lozano, Bird and Ward",ETF,Telecommunications,India
+A0106,AST106,"Rodgers, Lynn and Williams",Equity,Industrials,India
+A0107,AST107,Owens Ltd,REIT,Industrials,India
+A0108,AST108,Owens Group,Equity,Energy,India
+A0109,AST109,Briggs Ltd,ETF,Technology,Germany
+A0110,AST110,Smith-Henderson,Equity,Industrials,UK
+A0111,AST111,Fuller PLC,REIT,Technology,USA
+A0112,AST112,Pennington-Robinson,Bond,Healthcare,UK
+A0113,AST113,Wong and Sons,REIT,Healthcare,USA
+A0114,AST114,Smith and Sons,REIT,Healthcare,Japan
+A0115,AST115,Douglas-Richardson,ETF,Telecommunications,UK
+A0116,AST116,"Rogers, Rhodes and Jones",Bond,Telecommunications,UK
+A0117,AST117,"Davis, Garcia and Patton",REIT,Technology,India
+A0118,AST118,"Cunningham, Morris and Zuniga",ETF,Healthcare,Japan
+A0119,AST119,Miller Group,Bond,Telecommunications,UK
+A0120,AST120,Spears-Lee,Equity,Industrials,USA
+A0121,AST121,"Page, Rodriguez and Kelley",ETF,Technology,India
+A0122,AST122,Fields-Miller,ETF,Consumer,India
+A0123,AST123,Atkins-Price,Equity,Healthcare,India
+A0124,AST124,Mckinney-Villanueva,Equity,Healthcare,Canada
+A0125,AST125,Cortez-Ward,Commodity,Consumer,USA
+A0126,AST126,Perez-Pena,Equity,Energy,Germany
+A0127,AST127,Smith and Sons,Bond,Consumer,Japan
+A0128,AST128,Carrillo LLC,Equity,Energy,Japan
+A0129,AST129,Johnson-Ortiz,ETF,Consumer,USA
+A0130,AST130,Stokes LLC,REIT,Financials,Germany
+A0131,AST131,Larson-Saunders,Equity,Technology,Germany
+A0132,AST132,Villanueva Ltd,Commodity,Energy,Canada
+A0133,AST133,Gilmore Inc,Equity,Energy,Canada
+A0134,AST134,"Fischer, Bailey and Perez",Commodity,Technology,USA
+A0135,AST135,"Ballard, Campos and Wright",Bond,Consumer,UK
+A0136,AST136,Owen-Ortega,Equity,Healthcare,India
+A0137,AST137,Brady-Bell,REIT,Industrials,Japan
+A0138,AST138,"Moore, Hall and Thomas",REIT,Industrials,India
+A0139,AST139,Hill-Armstrong,Commodity,Consumer,Japan
+A0140,AST140,Lynn-Carpenter,Bond,Energy,Japan
+A0141,AST141,Castro LLC,REIT,Energy,USA
+A0142,AST142,"Barrera, Jenkins and Taylor",Equity,Telecommunications,Canada
+A0143,AST143,"Mcpherson, Haynes and Pena",REIT,Industrials,UK
+A0144,AST144,Jackson Ltd,Commodity,Energy,UK
+A0145,AST145,Graham-Mendoza,Commodity,Financials,Germany
+A0146,AST146,"White, Roberson and King",Commodity,Energy,Canada
+A0147,AST147,"Farmer, Ramirez and Gordon",Equity,Financials,Germany
+A0148,AST148,Stevens-Hall,Bond,Industrials,India
+A0149,AST149,"Nichols, Holmes and Nolan",Bond,Healthcare,Canada
+A0150,AST150,Bernard Inc,Commodity,Technology,USA
+A0151,AST151,Watts-Hernandez,Equity,Technology,Germany
+A0152,AST152,"Garcia, Rhodes and Valentine",Equity,Industrials,Canada
+A0153,AST153,Hall-Thornton,Bond,Telecommunications,UK
+A0154,AST154,Daniels-Gordon,REIT,Technology,Japan
+A0155,AST155,"Schultz, Spencer and Fowler",REIT,Consumer,India
+A0156,AST156,"Morgan, Wilson and Cortez",Equity,Energy,India
+A0157,AST157,Walls-Crawford,Commodity,Telecommunications,Canada
+A0158,AST158,Smith-Mcconnell,Equity,Financials,Japan
+A0159,AST159,"Martin, Harrison and Rodriguez",Bond,Financials,USA
+A0160,AST160,Green-Smith,REIT,Consumer,UK
+A0161,AST161,Smith Ltd,ETF,Industrials,Germany
+A0162,AST162,Wright Ltd,ETF,Telecommunications,USA
+A0163,AST163,"Johns, Barnes and Leonard",Bond,Telecommunications,Japan
+A0164,AST164,"Ortiz, Roberts and Ray",Bond,Technology,India
+A0165,AST165,Sullivan-Fitzgerald,REIT,Healthcare,Germany
+A0166,AST166,Berg Inc,REIT,Telecommunications,Japan
+A0167,AST167,"Griffin, Lane and Pearson",REIT,Industrials,Canada
+A0168,AST168,Jimenez-Simon,REIT,Technology,Japan
+A0169,AST169,Rodriguez-Munoz,Bond,Technology,UK
+A0170,AST170,White Group,Bond,Industrials,India
+A0171,AST171,Hudson-Proctor,Bond,Financials,USA
+A0172,AST172,"Kelley, Taylor and Williams",ETF,Telecommunications,UK
+A0173,AST173,Anderson PLC,REIT,Industrials,Germany
+A0174,AST174,Velasquez-Hinton,Equity,Healthcare,Canada
+A0175,AST175,"Clayton, Lang and King",Equity,Technology,Canada
+A0176,AST176,Barr Ltd,REIT,Healthcare,Germany
+A0177,AST177,Shaw Ltd,Commodity,Energy,India
+A0178,AST178,"Allen, Terry and Moore",ETF,Financials,India
+A0179,AST179,Lamb-Dawson,Bond,Telecommunications,Japan
+A0180,AST180,"Galvan, Murray and Vaughan",REIT,Technology,USA
+A0181,AST181,Adams Ltd,ETF,Healthcare,Japan
+A0182,AST182,Jordan-May,Equity,Industrials,USA
+A0183,AST183,Smith-Dennis,Bond,Energy,Canada
+A0184,AST184,Mooney Inc,Commodity,Energy,Japan
+A0185,AST185,Weber LLC,Commodity,Energy,India
+A0186,AST186,Walters-Jones,ETF,Telecommunications,Japan
+A0187,AST187,"Elliott, Fitzgerald and Davis",Equity,Financials,Germany
+A0188,AST188,Robinson-Pace,Equity,Financials,Canada
+A0189,AST189,Phillips Ltd,REIT,Energy,Japan
+A0190,AST190,"Vargas, Simon and Moss",Bond,Technology,UK
+A0191,AST191,Campos-Moore,Commodity,Consumer,USA
+A0192,AST192,"George, Morales and Frost",Equity,Healthcare,India
+A0193,AST193,Meyer Ltd,ETF,Telecommunications,UK
+A0194,AST194,Blackburn Group,Bond,Financials,India
+A0195,AST195,Morgan-Holmes,Equity,Technology,Germany
+A0196,AST196,Smith-Mcknight,Commodity,Healthcare,UK
+A0197,AST197,"Sanchez, Vargas and Padilla",Commodity,Consumer,Canada
+A0198,AST198,Lewis-Taylor,ETF,Consumer,Japan
+A0199,AST199,Morgan-Oneal,Bond,Technology,Germany
+A0200,AST200,Rhodes LLC,Equity,Energy,USA
