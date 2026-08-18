@@ -54,3 +54,39 @@ This project implements a data pipeline that:
               ▼
      Financial Intelligence
           Dashboard
+
+
+financial-data-intelligence/
+│
+├── data/
+│   └── raw/
+│       ├── assets.csv
+│       ├── clients.csv
+│       ├── transactions.csv
+│       └── transactions_messy.csv
+│
+├── metabase/
+│   └── docker-compose.yml
+│
+├── src/
+│   ├── analytics/
+│   │   ├── financial_kpis.py
+│   │   └── portfolio_analysis.py
+│   │
+│   ├── data_generation/
+│   │   ├── generate_data.py
+│   │   └── inject_data_quality_issues.py
+│   │
+│   ├── etl/
+│   │   ├── database_loader.py
+│   │   └── transaction_etl.py
+│   │
+│   ├── validation/
+│   │   └── transaction_validator.py
+│   │
+│   ├── database.py
+│   └── pipeline.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
