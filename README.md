@@ -21,7 +21,30 @@ This project implements a data pipeline that:
 - Automates the complete workflow through a single Python pipeline
 
 ---
+## Dashboard
 
+The final Metabase dashboard provides an interactive view of financial performance, transaction activity, client behavior, asset-class performance, and data quality.
+
+### Executive Dashboard
+
+![Financial Intelligence Dashboard](screenshots/dashboard-overview.png)
+
+### Dashboard Analysis
+
+![Financial Analytics Dashboard](screenshots/two.png)
+
+### Dashboard Components
+
+- Total transaction value
+- Total transactions
+- Average transaction value
+- Active clients
+- Active assets
+- Buy vs Sell performance
+- Monthly transaction trends
+- Asset-class performance
+- Top 10 clients
+- Data-quality metrics
 ## Architecture
 
 ```text
